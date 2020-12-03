@@ -4,4 +4,4 @@ The psd images and other files are also attached.
 
 Here is the screenshot of the PSD file:
 
-![ChatbotUI](https://github.com/Rahul100100/PSD-to-HTML/blob/main/Chatbot.psd)
+![ChatbotUI](https://github.com/Rahul100100/PSD-to-HTML/blob/main/ChatBotUI%20PSD%20FILE.png)
